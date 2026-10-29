@@ -1,5 +1,5 @@
 ---
-name: 需求收集表单
+name: 象样小程序优化需求收集表单
 about: 请按照以下模板填写你的需求
 title: '[需求] '
 labels: 'enhancement'
