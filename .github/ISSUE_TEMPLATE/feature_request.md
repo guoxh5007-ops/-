@@ -1,4 +1,3 @@
-Markdown
 ---
 name: 需求收集表单
 about: 请按照以下模板填写你的需求
